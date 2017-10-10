@@ -6,9 +6,9 @@ There are two part, first one is training the gates corner second is detecting g
 
 Training gate corners 
 ------------------------------------------------
-To train gate corner with OpenCV haar clasifier we need positives and negatives images. You you can find positive and negatives images example in viola&Jones/haar_cascades_train/positive_images & negative_images. This images just example to give you idea about how positives and negatives images should be. More sample can be used to obtain better result.
+To train gate corner with OpenCV haar clasifier we need positives and negatives images. You you can find positive and negatives images example in Gate-detection-with-viola-jones/example_images/positive_images & negative_images. This images just example to give you idea about how positives and negatives images should be. More sample can be used to obtain better result.
 
-For training part, prepared repository by mrnugget is used. More information can be find from README.txt file at haar_cascades_train file 
+For training part, prepared repository by mrnugget is used. More information can be find from README.txt file at haar_cascades_train_submodule file 
 
 for more information;
 https://github.com/mrnugget/opencv-haar-classifier-training
