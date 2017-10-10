@@ -20,7 +20,7 @@ This guide assumes that opencv 3.0.0 is installed.
 
 1 - Clone this repository and go inside viola&jones(OpenCV)/haar_cascades_test
 ~$  git clone https://github.com/burakkurtt/Gate-detection-with-viola-jones.git
-~$  cd viola\&jones\(OpenCV\)/haar_cascades_test/
+~$  cd Gate-detection-with-viola-jones/haar_cascades_test/
 
 2 - create new folder named 'build'
 ~$  mkdir build
