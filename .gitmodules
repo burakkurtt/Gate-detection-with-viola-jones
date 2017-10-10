@@ -1,3 +1,9 @@
 [submodule "opencv-haar-classifier-training"]
 	path = opencv-haar-classifier-training
 	url = https://github.com/mrnugget/opencv-haar-classifier-training.git
+[submodule "haar_cascades_train_1"]
+	path = haar_cascades_train_1
+	url = https://github.com/burakkurtt/opencv-haar-classifier-training.git
+[submodule "haar_cascades_train_submodule"]
+	path = haar_cascades_train_submodule
+	url = https://github.com/burakkurtt/opencv-haar-classifier-training.git
